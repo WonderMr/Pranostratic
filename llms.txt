@@ -1,0 +1,14 @@
+# Pranostratic
+
+> XMind mind map of a language family tree under the Nostratic (Pra-Nostratic, Borean) macrofamily hypothesis, with labels in Russian.
+
+The repository holds one file, `origin.of.languages.xmind`, a tree of about 1,100 nodes from the proposed Nostratic ancestor through Western Nostratic (Afroasiatic, Indo-European, Kartvelian) and Eastern Nostratic (Altaic, Dravidian, Uralic, Eskimo-Aleut) down to individual languages and dialects. Extinct languages are marked with a dagger. It is a personal compilation from 2018, not a consensus classification.
+
+## Docs
+
+- [README](https://github.com/WonderMr/Pranostratic/blob/master/README.md): what the map covers and how to open it
+- [AGENTS.md](https://github.com/WonderMr/Pranostratic/blob/master/AGENTS.md): file structure and editing notes for coding agents
+
+## Data
+
+- [origin.of.languages.xmind](https://github.com/WonderMr/Pranostratic/blob/master/origin.of.languages.xmind): the mind map (ZIP archive; the tree is in `content.xml`)
